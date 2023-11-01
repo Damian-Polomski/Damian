@@ -1,14 +1,29 @@
-### Hi there 👋, Damian Polomski
-#### BCom Law | Cybersecurity | Risk Management
-![Cybersecurity ](https://media.licdn.com/dms/image/D4D16AQElRwTNAiePzA/profile-displaybackgroundimage-shrink_350_1400/0/1683775091190?e=1698883200&v=beta&t=CvrK-YuElfDh2R_yXlS88AtVjhWx3RRewOi7VxpJmZE)
+<h1>Hi, I'm Damian! <br/>
 
-I'm Damian, hailing from South Africa. My academic journey led me to a BCom Law degree, but a newfound passion for Cybersecurity has truly captured my focus. Currently, I'm currently enrolled in the Google Cybersecurity Professional Certificate program, honing skills like Linux | Python programming | Security Information and Event Management tools | Intrusion Detection Systems | SQL. Delving into the realm of cybersecurity not only captivates me but also fuels my drive to stay current with cutting-edge technologies and emerging threats.
-
-Skills: Linux | Python programming | Security Information and Event Management tools | Intrusion Detection Systems | SQL.
-
-- 🌱 I’m currently learning Google Cybersecurity Professional Certificate 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-polomski-a20919217/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/damian.polomski/)  
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>📄 Certifications </h2>
+
+ -[Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/966YR5GP7H49) 
+
+ -[Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HL9U2A5NGDSK)
+ 
+ -[CompTIA S+ (01/2024)]
+ 
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Tutorial: Active Directory Home Lab]()
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/damian.polomski/
+[linkedin]: https://www.linkedin.com/in/damianpolomski/
 
 
