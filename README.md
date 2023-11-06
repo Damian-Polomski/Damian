@@ -15,6 +15,8 @@
 
 - Introduction to Computer Science and Programming Using Python	MITx, 2023
 
+- CS50: Introduction to Computer Science
+
 
 <h2>📄 Certifications </h2>
 
