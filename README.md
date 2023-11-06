@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+ - [File permissions Project in Linux](https://github.com/Damian-Polomski/Linux-Permissions-Project)
+   
  - [Active Directory Home Lab](https://github.com/Damian-Polomski/AvtiveDirectoryLab/tree/main)
 
  - [Hello World!]()
