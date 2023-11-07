@@ -11,22 +11,24 @@
    
 <h2>🎓 Degree/Education </h2>
 
- - [BCom Law Degree](https://imgur.com/a/qaNmZaQ)
+ - [BCom Law Degree: Eduvos University, 2021](https://imgur.com/a/qaNmZaQ)
  
-- Cybersecurity for Critical Urban Infrastructure	MITx, 2023
+- Cybersecurity for Critical Urban Infrastructure:	MITx, 2023
 
-- Introduction to Computer Science and Programming Using Python	MITx, 2023
+- Introduction to Computer Science and Programming Using Python:	MITx, 2023
 
-- CS50: Introduction to Computer Science
+- CS50: Introduction to Computer Science: EDx, 2023
 
 
 <h2>📄 Certifications </h2>
 
- - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/966YR5GP7H49) 
+ - [Google: Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/966YR5GP7H49) 
 
- - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HL9U2A5NGDSK)
+ - [Google: Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HL9U2A5NGDSK)
 
- - [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/WTJGZFHZC5X2)
+ - [Google: Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/WTJGZFHZC5X2)
+
+ - [Google: Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/9ESSVZAURMFE)
  
  - [CompTIA S+ (01/2024)]
  
