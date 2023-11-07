@@ -6,7 +6,7 @@
    
  - [Active Directory Home Lab](https://github.com/Damian-Polomski/AvtiveDirectoryLab/tree/main)
 
- - [Hello World!]()
+ - [Apply filters to SQL queries](https://github.com/Damian-Polomski/Apply-filters-to-SQL-queries)
 
    
 <h2>🎓 Degree/Education </h2>
