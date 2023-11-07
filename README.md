@@ -15,9 +15,7 @@
  
 - Cybersecurity for Critical Urban Infrastructure:	MITx, 2023
 
-- Introduction to Computer Science and Programming Using Python:	MITx, 2023
-
-- CS50: Introduction to Computer Science: EDx, 2023
+- HarvardX: CS50's Introduction to Programming with Python: edX, 2023
 
 
 <h2>📄 Certifications </h2>
