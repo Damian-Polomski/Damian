@@ -20,13 +20,23 @@
 
 <h2>📄 Certifications </h2>
 
- - [Google: Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/966YR5GP7H49) 
+ - [Main: Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/professional-cert/23RWGFWE3RN3)
+  
+  - [1)Google: Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/966YR5GP7H49) 
 
- - [Google: Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HL9U2A5NGDSK)
+  - [2)Google: Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HL9U2A5NGDSK)
 
- - [Google: Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/WTJGZFHZC5X2)
+  - [3)Google: Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/WTJGZFHZC5X2)
 
- - [Google: Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/9ESSVZAURMFE)
+  - [4)Google: Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/9ESSVZAURMFE)
+
+  - [5)Assets, Threast, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/3D65XNV9TJUB)
+
+  - [6)Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/K2MUW3VUFFGP)
+
+  - [7)Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/AVEVSJF5V9W6)
+
+  - [8)Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/B73654QLP9R9)
  
  - [CompTIA S+ (01/2024)]
  
