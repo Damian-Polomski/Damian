@@ -15,8 +15,6 @@
 
  - [BCom Law Degree: Eduvos University, 2021](https://imgur.com/a/qaNmZaQ)
  
-- Cybersecurity for Critical Urban Infrastructure:	MITx, 2023
-
 - HarvardX: CS50's Introduction to Programming with Python: edX, 2023
 
 
