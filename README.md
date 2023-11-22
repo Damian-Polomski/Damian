@@ -8,6 +8,8 @@
 
  - [Apply filters to SQL queries](https://github.com/Damian-Polomski/Apply-filters-to-SQL-queries)
 
+ - [Update a file through a Python algorithm](https://github.com/Damian-Polomski/Update-file-Python-algorithm)
+
    
 <h2>🎓 Degree/Education </h2>
 
