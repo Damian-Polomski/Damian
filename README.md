@@ -4,7 +4,7 @@
 
  - [File permissions Project in Linux](https://github.com/Damian-Polomski/Linux-Permissions-Project)
    
- - [Active Directory Home Lab](https://github.com/Damian-Polomski/AvtiveDirectoryLab/tree/main)
+ - [Active Directory Home Lab](https://github.com/Damian-Polomski/AvtiveDirectoryLab/tree/main) (still in progress)
 
  - [Apply filters to SQL queries](https://github.com/Damian-Polomski/Apply-filters-to-SQL-queries)
 
